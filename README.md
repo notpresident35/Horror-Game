@@ -13,3 +13,7 @@ To-Do list:
 * Add monster scares. This comes when I have places for the monster to go.
 * Add animations. Add stuff like an animation for striking a match and lighting the candle, or picking things up.
 * Add more stuff to warehouse. Things like the candle, matches, more enviroment objects, and maybe a monster scare.
+
+
+
+NOTE: This GITHUB repository is empty and will remain that way until I can figure out how to actually upload the project files. The project is larger thatn 2GB, which appears to be the maximum size... Or at least max size per push.
